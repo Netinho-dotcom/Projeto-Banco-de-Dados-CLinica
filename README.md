@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏥 Simulação de Banco de Dados - Clínica Médica
 
 Este repositório contém um projeto acadêmico que simula o banco de dados de uma clínica médica com diversas especialidades. O objetivo é demonstrar a criação e manipulação de dados utilizando comandos SQL.
@@ -86,4 +85,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 =======
 Olá, essa a atividade avaliativa referente a segunda nota da disciplina Introdução a banco de Dados visando a criação de a manipulação de tabelas e seus dados utilizando da linguagem SQL. O cénario escolhido para esse trablho foi o Cenário C - Clínica de Especialidades onde lidaremos com Gestão de pacientes, médicos com várias especialidades , agendamentos, consultas, receitas e pagamentos.
 na pasta "ddl" você encontrará todos os códigos da criação das tabelas, enquanto na tabela "dml" está os códigos da inserção de dados e manipulação dos mesmo através de consultas. Pro fim na pasta media você encontrará as imagens dos resultados das consultas, o modelo de relacionamentos e o vídeo explicando todo o projeto.
->>>>>>> 62dea9f9a7c906de697cab88f0281a32f90ab8cf
